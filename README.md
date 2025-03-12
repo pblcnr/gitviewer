@@ -106,6 +106,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 📞 Contato
 
-Paulo Henrique de Andrade - [plhnrqf@outlookc.com](mailto:plhnrqf@outlook.com)
+Paulo Henrique de Andrade - [plhnrqf@outlook.com](mailto:plhnrqf@outlook.com)
 
 Link do projeto: [https://github.com/pblcnr/gitviewer](https://github.com/pblcnr/gitviewer)
